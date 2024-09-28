@@ -2,7 +2,7 @@
 
 A quick and easy way to manage your support tickets like a pro! This Streamlit app lets you create, manage, and visualize support tickets seamlessly using Airtable as the backend. Perfect for teams looking for a lightweight yet powerful ticketing tool. 🚀
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit-airtable-support-tickets-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airtable-support-tickets-template.streamlit.app/)
 &nbsp; 
 ---
 
