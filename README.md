@@ -98,3 +98,23 @@ Need help with customization, additional features, or consulting? I'm here to he
 ---
 
 Happy Development! 🎟️
+
+---
+
+<!-- ```markdown -->
+## 📸 Output Screenshots
+
+![Choose Team View](/resource/img/1_choose_team.png)
+*Main dashboard showing team choose optoin*
+
+![Create Ticket](/resource/img/2_add_a_ticket.png) 
+*Create new support ticket*
+
+![Manage Tickets](/resource/img/3_view_tickets.png)
+*Ticket management interface with sorting and filtering options*
+
+![Delete Records](/resource/img/4_delete_ticket.png)
+*Bulk deletion interface for managing ticket records*
+
+![Stats](/resource/img/5_stats.png)
+*View tickets statistics*
